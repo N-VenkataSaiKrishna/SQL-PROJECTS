@@ -1,7 +1,7 @@
 # SQL-PROJECTS
 
 # Data Exploration on covid dataset
-MS SQL Data Exploration project on Covid
+MS SQL Data Exploration project using Covid dataset
 
 •	In this project, I have used various SQL functions to get the required output from the data.
 
@@ -14,7 +14,10 @@ MS SQL Data Exploration project on Covid
 •	And also discovered how many people got vaccinated.
 
 
-# Data Wrangling and Data Cleaning project using Nashville housing dataset.
+# Data Cleaning project using Nashville housing dataset.
+MS SQL Data Cleaning project using Nashville housing dataset
+
+
 
 
 
