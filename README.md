@@ -14,7 +14,7 @@ MS SQL Data Exploration project on Covid
 •	And also discovered how many people got vaccinated.
 
 
-# Data Cleaning project using Nashville housing dataset
+# Data Wrangling and Data Cleaning project using Nashville housing dataset.
 
 
 
