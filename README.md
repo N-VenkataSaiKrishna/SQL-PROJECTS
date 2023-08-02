@@ -23,6 +23,11 @@ MS SQL Data Cleaning project using Nashville housing dataset
 
 •	Converting the messy data into meaning full data by separating the data and updating in correct format.
 
+•	Explored the data using various functions.
+
+
+
+
 
 
 
